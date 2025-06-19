@@ -1,0 +1,4 @@
+{
+"system_name":"My python final project",
+"acceptable_formats":["books.xlsx","book.+input.xlsx","penguin_input_[0-9]{5,10}(xlsx|csv)"]
+}
