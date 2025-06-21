@@ -33,5 +33,3 @@ def loadingData():
         return pd.read_excel(foundFile)
     else:
         raise FileNotFoundError("Nie znaleziono prawidłowego pliku")
-
-print(loadingData())
