@@ -13,6 +13,7 @@ def loadingData():
     config = json.load(configFile)
     formats = config['acceptable_formats']
     patterns = []
+    full_data_frame = []
 
     for i in range(len(formats)):
         patterns.append(re.compile(formats[i]))
@@ -28,8 +29,14 @@ def loadingData():
             os.remove(os.path.join(DATA_FOLDER_NAME, file))
         else:
             foundFile = os.path.join(DATA_FOLDER_NAME, file)
+            if (foundFile.endswith(".csv")):
+                data_frame = pd.read_csv(foundFile)
+                full_data_frame.append(data_frame)
+            if (foundFile.endswith(".xlsx")):
+                data_frame = pd.read_excel(foundFile)
+                full_data_frame.append(data_frame)
 
-    if foundFile is not None:
-        return pd.read_excel(foundFile)
+    if full_data_frame:
+        return pd.concat(full_data_frame, ignore_index=True)
     else:
         raise FileNotFoundError("Nie znaleziono prawidłowego pliku")

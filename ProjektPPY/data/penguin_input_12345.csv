@@ -1,0 +1,201 @@
+Name,Surname,Title,Rating,Publisher,internal_price,internal_catalogue_num,actions_internal
+Stephen,King,Alias Grace,9.1,Scholastic,28.84,18408,None
+Stephen,King,Carrie,8.6,Scholastic,21.97,114659,None
+Stephen,King,Being scary for dummies,8.6,Scholastic,31.08,60900,To delete from further processing
+Stephen,King,Sharp Objects,9.3,Simon & Schuster,26.27,277124,To delete from further processing
+Stephen,King,Alias Grace,9.7,Macmillan,25.27,121130,To show on main page
+Stephen,King,Misery,8.7,Scholastic,39.28,28159,None
+Stephen,King,11/22/63,9.8,Monster inc.,32.22,148894,To show on main page
+Stephen,King,The Testaments,7.9,Scholastic,23.11,9717,To show on main page
+Stephen,King,The Shining,7.2,Scholastic,36.61,62032,None
+Stephen,King,Neverwhere,7.6,Scholastic,39.62,286197,None
+Mike,Rowling,The Sun Down Motel,9.6,Penguin random house,35.66,145546,None
+Terry,Atwood,Neverwhere,9.0,Penguin random house,28.74,199029,To show on main page
+George,Rowling,The Green Mile,9.7,Penguin random house,20.15,111150,None
+Simone,Atwood,Misery,7.2,Penguin random house,30.99,186016,To delete from further processing
+Alice,Pratchett,The Night Circus,8.2,Penguin random house,35.77,40274,To show on main page
+Stephen,Patterson,The Night Circus,7.3,Penguin random house,33.3,238977,None
+Neil,Pratchett,The Outsider,9.9,Penguin random house,35.61,137942,To show on main page
+Mike,Sager,American Gods,9.6,Penguin random house,28.39,40641,To delete from further processing
+Riley,Atwood,The Night Circus,7.8,Penguin random house,23.44,184875,To delete from further processing
+Alice,Walker,Good Omens,8.3,Penguin random house,31.06,164770,None
+Stephen,Martin,Big Little Lies,8.4,HarperCollins,28.0,288075,To show on main page
+Margaret,King,Alias Grace,9.4,Scholastic,30.08,140743,To show on main page
+Agatha,Gaiman,American Gods,9.4,Simon & Schuster,24.23,79365,To show on main page
+Alice,Walker,Neverwhere,8.7,HarperCollins,35.13,269237,To show on main page
+Agatha,Sager,It,8.4,Macmillan,32.57,203087,To show on main page
+Simone,Walker,The Sun Down Motel,7.0,Macmillan,33.92,239999,None
+Alice,Pratchett,Carrie,7.0,Hachette,31.53,11712,To delete from further processing
+Agatha,Gaiman,Misery,7.4,Hachette,30.55,26160,To delete from further processing
+Mike,Sager,Being scary for dummies,8.3,Hachette,30.03,166825,To delete from further processing
+Simone,Atwood,The Shining,7.6,Simon & Schuster,35.71,37806,None
+Simone,Patterson,The Green Mile,9.0,Scholastic,35.98,86659,None
+George,Wazowsky,Sharp Objects,9.9,Monster inc.,22.88,87961,None
+Alice,Martin,The Girl on the Train,8.7,Penguin random house,35.78,7368,None
+Riley,Martin,11/22/63,7.2,Macmillan,22.85,206399,To delete from further processing
+Alice,Atwood,Being scary for dummies,7.7,Monster inc.,37.56,54052,To show on main page
+Neil,Christie,The Shining,7.4,Monster inc.,26.81,85611,To delete from further processing
+J.K.,Pratchett,The Testaments,9.7,Scholastic,25.65,30595,To delete from further processing
+Neil,Atwood,It,9.7,HarperCollins,20.55,3193,To delete from further processing
+James,King,Gone Girl,7.5,Hachette,30.73,137530,To delete from further processing
+Simone,Christie,Revival,8.1,Scholastic,38.14,240139,To delete from further processing
+J.K.,Christie,Revival,7.7,Macmillan,21.98,226925,None
+Mike,Sager,The House across the lake,8.0,Hachette,21.23,35959,To delete from further processing
+Margaret,Sager,Revival,7.4,Macmillan,39.53,158715,To show on main page
+Terry,Walker,The Night Circus,7.8,Scholastic,21.5,126918,To show on main page
+Riley,Patterson,The Institute,9.3,Macmillan,39.79,257235,To delete from further processing
+Terry,Sager,The Sun Down Motel,9.6,Penguin random house,24.91,177254,To show on main page
+Neil,Patterson,Big Little Lies,9.3,Monster inc.,35.73,273534,None
+J.K.,Pratchett,The House across the lake,7.2,Monster inc.,34.31,163416,To delete from further processing
+Margaret,King,Big Little Lies,7.7,Macmillan,24.03,192651,To show on main page
+J.K.,Gaiman,Big Little Lies,9.2,Scholastic,26.73,153921,To delete from further processing
+George,King,The Outsider,7.8,Simon & Schuster,21.22,99466,To delete from further processing
+Agatha,Gaiman,The Sun Down Motel,7.9,Macmillan,35.47,14840,To delete from further processing
+Simone,Gaiman,The Girl on the Train,8.8,Penguin random house,28.08,63157,To show on main page
+Margaret,Walker,Good Omens,9.5,Penguin random house,39.49,180115,To delete from further processing
+Riley,King,Big Little Lies,8.0,Macmillan,20.54,130707,To show on main page
+Simone,Pratchett,The Green Mile,9.7,Scholastic,23.91,171425,None
+Stephen,St.James,Carrie,9.2,Hachette,23.83,50576,None
+Margaret,Martin,11/22/63,8.6,Macmillan,33.4,272985,To delete from further processing
+James,Gaiman,The House across the lake,9.0,Penguin random house,34.43,122654,To delete from further processing
+Neil,Wazowsky,The Green Mile,8.4,Penguin random house,24.15,270071,To show on main page
+James,St.James,The Sun Down Motel,7.4,Simon & Schuster,31.39,181395,None
+Margaret,Wazowsky,Alias Grace,9.3,Penguin random house,28.54,22439,To delete from further processing
+Margaret,Pratchett,The House across the lake,7.8,Macmillan,31.18,62188,None
+Alice,Gaiman,Carrie,8.6,Hachette,37.23,181243,To show on main page
+Simone,King,The Institute,8.2,Hachette,36.12,115439,To delete from further processing
+George,Wazowsky,The Testaments,8.9,Hachette,25.17,160884,To show on main page
+Stephen,Christie,Carrie,8.3,Monster inc.,26.89,4642,To show on main page
+Neil,St.James,American Gods,7.7,Simon & Schuster,24.85,155845,To show on main page
+Agatha,Gaiman,The Outsider,8.8,Simon & Schuster,38.3,39027,None
+Margaret,Christie,American Gods,8.0,Penguin random house,20.27,187457,To delete from further processing
+Neil,Rowling,Being scary for dummies,8.0,Hachette,26.03,57617,To delete from further processing
+Mike,Pratchett,The Institute,8.9,Simon & Schuster,25.11,50883,To show on main page
+Mike,Gaiman,Gone Girl,7.4,HarperCollins,26.73,103613,None
+Alice,King,The Institute,9.8,Monster inc.,21.14,173617,To show on main page
+Simone,Martin,Revival,8.3,Macmillan,25.83,136155,None
+Neil,Patterson,American Gods,8.7,Hachette,23.71,94924,None
+Stephen,Gaiman,The Night Circus,8.2,Hachette,37.81,93906,To show on main page
+James,Wazowsky,Revival,8.3,Monster inc.,31.6,214061,None
+Riley,St.James,It,9.9,Scholastic,35.59,251968,To show on main page
+James,Christie,It,8.2,Monster inc.,37.67,215796,To delete from further processing
+Terry,Gaiman,Being scary for dummies,10.0,HarperCollins,38.35,187297,None
+Simone,Atwood,11/22/63,7.7,Monster inc.,31.65,108109,To delete from further processing
+Agatha,Sager,11/22/63,9.4,Macmillan,33.23,287793,To delete from further processing
+Neil,Martin,Misery,9.7,Penguin random house,31.56,35161,None
+Stephen,King,Alias Grace,7.0,Macmillan,21.49,245901,To delete from further processing
+Riley,Wazowsky,Alias Grace,9.2,HarperCollins,35.24,7073,To delete from further processing
+Agatha,Rowling,Carrie,7.7,Simon & Schuster,35.65,27408,To delete from further processing
+Margaret,St.James,The Institute,9.6,Penguin random house,22.76,20487,To delete from further processing
+Agatha,St.James,The Sun Down Motel,9.6,Scholastic,37.76,167710,None
+George,Pratchett,American Gods,9.2,Hachette,35.43,224673,None
+Simone,King,The Girl on the Train,9.2,Penguin random house,30.77,129298,None
+Agatha,Christie,The Girl on the Train,7.7,Simon & Schuster,25.64,104027,None
+Alice,Gaiman,The Institute,10.0,Monster inc.,23.38,187743,None
+James,Patterson,The Sun Down Motel,8.1,Simon & Schuster,30.59,220749,To show on main page
+Terry,Pratchett,11/22/63,7.6,Hachette,20.19,204304,To delete from further processing
+J.K.,Martin,The Green Mile,9.3,Macmillan,22.88,118688,None
+George,Gaiman,The Girl on the Train,8.5,HarperCollins,25.4,100307,To delete from further processing
+J.K.,King,American Gods,7.8,Hachette,23.76,101702,To delete from further processing
+Riley,Christie,Gone Girl,9.6,Macmillan,36.22,121644,To delete from further processing
+Mike,Martin,The House across the lake,8.6,Simon & Schuster,35.98,61121,None
+Mike,Rowling,It,8.9,Simon & Schuster,34.46,242536,To show on main page
+J.K.,Pratchett,The Shining,9.9,Monster inc.,32.48,282149,To show on main page
+J.K.,Sager,The Institute,8.8,Hachette,33.26,163175,To delete from further processing
+Agatha,Sager,American Gods,8.6,Monster inc.,33.45,203592,None
+Stephen,Rowling,Neverwhere,9.3,Penguin random house,36.73,164487,To show on main page
+J.K.,St.James,The Shining,9.2,Penguin random house,24.74,229038,To delete from further processing
+Terry,Sager,American Gods,8.8,Penguin random house,28.22,150584,To show on main page
+Alice,Rowling,The Night Circus,9.0,HarperCollins,21.4,56490,To show on main page
+Neil,Atwood,The Outsider,8.6,Monster inc.,23.46,160251,To delete from further processing
+Terry,Gaiman,Being scary for dummies,9.3,HarperCollins,28.13,204416,To show on main page
+Neil,Rowling,The Institute,9.1,Hachette,39.93,213928,To delete from further processing
+Margaret,Wazowsky,The Shining,8.9,Macmillan,36.56,237918,None
+Stephen,Rowling,The Girl on the Train,8.9,Scholastic,39.27,69691,To delete from further processing
+Stephen,St.James,American Gods,7.5,Macmillan,26.49,103039,To delete from further processing
+Agatha,Sager,11/22/63,8.7,Penguin random house,28.81,231891,To show on main page
+Margaret,Sager,The Testaments,8.3,HarperCollins,37.5,44321,To show on main page
+Mike,King,Big Little Lies,8.7,Macmillan,26.85,138186,None
+Riley,Martin,Being scary for dummies,9.6,Scholastic,31.37,104822,To show on main page
+James,Martin,Good Omens,7.0,Scholastic,35.4,275983,To show on main page
+J.K.,Gaiman,The Sun Down Motel,8.1,Monster inc.,36.17,77358,To delete from further processing
+Riley,Sager,Alias Grace,9.8,Monster inc.,30.83,137944,To delete from further processing
+George,Martin,The Green Mile,7.3,Hachette,36.08,113059,None
+Riley,Atwood,The House across the lake,8.3,Hachette,28.88,227618,None
+Simone,King,Being scary for dummies,9.4,Hachette,37.49,67501,None
+Riley,Patterson,Misery,9.4,Macmillan,34.25,98078,To show on main page
+Riley,Gaiman,The Night Circus,7.6,Monster inc.,22.65,40353,None
+George,Gaiman,The Testaments,8.7,Monster inc.,32.56,219670,None
+Terry,Walker,Carrie,8.3,Simon & Schuster,39.3,142042,To delete from further processing
+Stephen,Walker,Big Little Lies,9.2,Monster inc.,35.54,235531,To show on main page
+Margaret,Atwood,Being scary for dummies,7.0,Simon & Schuster,26.11,139780,None
+Margaret,Patterson,11/22/63,7.1,Monster inc.,35.03,106421,To show on main page
+Riley,Sager,11/22/63,7.5,Scholastic,29.14,238936,To delete from further processing
+Mike,Pratchett,It,7.0,Hachette,32.36,106400,To delete from further processing
+George,Patterson,Revival,9.8,Simon & Schuster,26.45,68170,None
+Terry,Pratchett,Good Omens,9.6,Scholastic,27.56,150907,To show on main page
+Simone,Rowling,Carrie,8.8,Simon & Schuster,29.91,122228,To delete from further processing
+Riley,Walker,Carrie,7.8,Simon & Schuster,39.06,14014,None
+Margaret,Pratchett,Being scary for dummies,8.3,Scholastic,35.91,17517,None
+J.K.,Sager,The Shining,8.2,Simon & Schuster,35.98,86666,To show on main page
+Agatha,Pratchett,Carrie,8.9,Simon & Schuster,36.33,158731,To show on main page
+Stephen,Gaiman,Good Omens,8.8,Hachette,20.6,120679,To show on main page
+Agatha,Pratchett,Good Omens,7.9,Macmillan,28.02,61964,None
+Riley,King,Big Little Lies,8.9,Hachette,33.66,142573,To delete from further processing
+Agatha,St.James,Carrie,9.1,Simon & Schuster,34.47,87303,None
+George,Gaiman,The Shining,7.7,Hachette,36.43,154809,To show on main page
+Neil,St.James,Gone Girl,7.3,HarperCollins,27.53,167462,To delete from further processing
+Terry,Wazowsky,Misery,7.6,Monster inc.,32.76,108564,None
+Mike,Walker,The Green Mile,9.2,Penguin random house,25.78,179390,None
+Margaret,Pratchett,Being scary for dummies,7.5,HarperCollins,35.79,206750,To show on main page
+Terry,Atwood,Revival,9.5,HarperCollins,21.24,284492,To delete from further processing
+George,Rowling,The Shining,7.3,Macmillan,28.89,215020,None
+Stephen,St.James,The Green Mile,9.9,Penguin random house,23.04,297826,None
+J.K.,King,The Green Mile,8.2,Scholastic,25.9,119489,To delete from further processing
+Agatha,Sager,The House across the lake,8.1,Penguin random house,24.91,187333,None
+Mike,Rowling,The House across the lake,8.2,Hachette,22.28,42840,To delete from further processing
+Agatha,Wazowsky,Big Little Lies,8.9,HarperCollins,26.44,62361,To delete from further processing
+Mike,Christie,Sharp Objects,8.8,Macmillan,35.32,296293,None
+Margaret,King,Sharp Objects,7.1,Monster inc.,23.72,277667,To show on main page
+Agatha,Sager,The Outsider,9.4,Monster inc.,38.48,211117,To delete from further processing
+Simone,Atwood,The Outsider,8.2,Macmillan,25.07,15507,None
+Neil,Wazowsky,Big Little Lies,7.8,Monster inc.,39.69,119217,To delete from further processing
+Stephen,King,Misery,9.8,Monster inc.,37.61,32009,To show on main page
+J.K.,Martin,Big Little Lies,9.6,HarperCollins,34.41,188606,None
+Neil,Pratchett,Carrie,7.4,Hachette,20.4,213010,None
+Simone,Christie,The Girl on the Train,7.2,Monster inc.,32.33,187719,To show on main page
+George,Martin,The House across the lake,8.5,Simon & Schuster,31.26,240560,None
+George,Rowling,The Testaments,8.7,Simon & Schuster,35.76,140653,None
+George,St.James,Being scary for dummies,7.2,Macmillan,39.78,149579,To delete from further processing
+Simone,Walker,The Green Mile,9.5,Scholastic,30.63,61261,To show on main page
+Riley,Gaiman,The Testaments,7.5,Simon & Schuster,26.08,6631,To delete from further processing
+Alice,Gaiman,The House across the lake,8.7,Monster inc.,23.98,276425,To delete from further processing
+J.K.,Wazowsky,The Institute,9.1,Monster inc.,21.34,43255,To show on main page
+Simone,Walker,The Outsider,8.2,Hachette,38.38,100468,To show on main page
+Alice,Martin,11/22/63,8.3,Penguin random house,30.58,102463,To delete from further processing
+Margaret,Martin,Gone Girl,8.7,Simon & Schuster,37.04,198232,To show on main page
+Alice,Walker,Gone Girl,8.1,Hachette,29.35,60326,To delete from further processing
+Margaret,Pratchett,11/22/63,9.9,Scholastic,30.33,66416,To show on main page
+Neil,Gaiman,The Green Mile,9.4,Simon & Schuster,24.25,216897,None
+Alice,Walker,The Testaments,8.2,Scholastic,26.61,4691,To show on main page
+Neil,Martin,11/22/63,9.2,Hachette,31.98,104298,To show on main page
+Simone,Sager,Gone Girl,9.4,Scholastic,21.06,106806,None
+Alice,Pratchett,Revival,7.6,Simon & Schuster,39.69,104608,None
+Neil,Rowling,The Green Mile,9.4,Macmillan,24.33,280264,To show on main page
+Riley,Rowling,Good Omens,7.8,HarperCollins,27.51,290506,None
+Alice,Pratchett,The Shining,8.8,Hachette,21.63,126042,None
+Riley,Walker,Misery,7.6,HarperCollins,38.69,211678,To show on main page
+Mike,Christie,The Girl on the Train,8.4,Simon & Schuster,29.66,8336,None
+Stephen,Christie,Good Omens,8.5,Simon & Schuster,26.3,17980,To show on main page
+Neil,Gaiman,The Outsider,7.2,Hachette,30.82,287223,To delete from further processing
+J.K.,Atwood,Alias Grace,8.5,Hachette,21.62,48714,To show on main page
+J.K.,Gaiman,The Institute,8.8,Simon & Schuster,23.44,21113,To delete from further processing
+George,Gaiman,Revival,9.5,Monster inc.,22.58,253873,None
+Margaret,King,Sharp Objects,7.9,Hachette,23.15,54799,To delete from further processing
+Stephen,Pratchett,Gone Girl,7.4,Macmillan,26.38,256684,To delete from further processing
+Alice,Atwood,The Outsider,8.3,HarperCollins,28.86,153228,None
+James,Patterson,Good Omens,8.7,Macmillan,34.83,259747,None
+Riley,Walker,Revival,8.5,Hachette,28.3,92469,None
+Terry,Atwood,11/22/63,8.9,Macmillan,30.2,215404,To show on main page
+Margaret,Wazowsky,Carrie,7.5,Penguin random house,27.75,252135,To show on main page
+James,Martin,The Testaments,8.7,Monster inc.,37.14,181771,To show on main page
