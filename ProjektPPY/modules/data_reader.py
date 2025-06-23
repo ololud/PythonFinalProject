@@ -5,7 +5,6 @@ import pandas as pd
 
 
 def loadingData():
-    foundFile = None
     DATA_FOLDER_NAME = '..\\data'
     CONFIG_FILE_PATH = "..\\config.json"
 
