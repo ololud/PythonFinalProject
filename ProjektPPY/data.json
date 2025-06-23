@@ -1,0 +1,272 @@
+[
+  {
+    "Name":"Stephen",
+    "Surname":"King",
+    "Title":"Being scary for dummies",
+    "Rating":8.6,
+    "Publisher":"scholastic",
+    "ebook_access":null,
+    "edition_count":null,
+    "first_publish_year":null
+  },
+  {
+    "Name":"Stephen",
+    "Surname":"King",
+    "Title":"Sharp Objects",
+    "Rating":9.3,
+    "Publisher":"simon & schuster",
+    "ebook_access":"borrowable",
+    "edition_count":31.0,
+    "first_publish_year":2006.0
+  },
+  {
+    "Name":"Stephen",
+    "Surname":"King",
+    "Title":"Alias Grace",
+    "Rating":9.7,
+    "Publisher":"macmillan",
+    "ebook_access":"borrowable",
+    "edition_count":80.0,
+    "first_publish_year":1996.0
+  },
+  {
+    "Name":"Stephen",
+    "Surname":"King",
+    "Title":"11\/22\/63",
+    "Rating":9.8,
+    "Publisher":"monster inc.",
+    "ebook_access":"borrowable",
+    "edition_count":48.0,
+    "first_publish_year":1925.0
+  },
+  {
+    "Name":"Stephen",
+    "Surname":"King",
+    "Title":"The Testaments",
+    "Rating":7.9,
+    "Publisher":"scholastic",
+    "ebook_access":"borrowable",
+    "edition_count":62.0,
+    "first_publish_year":1999.0
+  },
+  {
+    "Name":"Terry",
+    "Surname":"Atwood",
+    "Title":"Neverwhere",
+    "Rating":9.0,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":46.0,
+    "first_publish_year":1996.0
+  },
+  {
+    "Name":"Simone",
+    "Surname":"Atwood",
+    "Title":"Misery",
+    "Rating":7.2,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":99.0,
+    "first_publish_year":1978.0
+  },
+  {
+    "Name":"Alice",
+    "Surname":"Pratchett",
+    "Title":"The Night Circus",
+    "Rating":8.2,
+    "Publisher":"penguin random house",
+    "ebook_access":"unclassified",
+    "edition_count":29.0,
+    "first_publish_year":2011.0
+  },
+  {
+    "Name":"Neil",
+    "Surname":"Pratchett",
+    "Title":"The Outsider",
+    "Rating":9.9,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":77.0,
+    "first_publish_year":1967.0
+  },
+  {
+    "Name":"Mike",
+    "Surname":"Sager",
+    "Title":"American Gods",
+    "Rating":9.6,
+    "Publisher":"penguin random house",
+    "ebook_access":"printdisabled",
+    "edition_count":72.0,
+    "first_publish_year":2001.0
+  },
+  {
+    "Name":"Riley",
+    "Surname":"Atwood",
+    "Title":"The Night Circus",
+    "Rating":7.8,
+    "Publisher":"penguin random house",
+    "ebook_access":"unclassified",
+    "edition_count":29.0,
+    "first_publish_year":2011.0
+  },
+  {
+    "Name":"Terry",
+    "Surname":"Sager",
+    "Title":"The Sun Down Motel",
+    "Rating":9.6,
+    "Publisher":"penguin random house",
+    "ebook_access":"no_ebook",
+    "edition_count":4.0,
+    "first_publish_year":2020.0
+  },
+  {
+    "Name":"Simone",
+    "Surname":"Gaiman",
+    "Title":"The Girl on the Train",
+    "Rating":8.8,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":34.0,
+    "first_publish_year":2014.0
+  },
+  {
+    "Name":"Margaret",
+    "Surname":"Walker",
+    "Title":"Good Omens",
+    "Rating":9.5,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":73.0,
+    "first_publish_year":1990.0
+  },
+  {
+    "Name":"James",
+    "Surname":"Gaiman",
+    "Title":"The House across the lake",
+    "Rating":9.0,
+    "Publisher":"penguin random house",
+    "ebook_access":"no_ebook",
+    "edition_count":10.0,
+    "first_publish_year":2022.0
+  },
+  {
+    "Name":"Neil",
+    "Surname":"Wazowsky",
+    "Title":"The Green Mile",
+    "Rating":8.4,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":91.0,
+    "first_publish_year":1996.0
+  },
+  {
+    "Name":"Margaret",
+    "Surname":"Wazowsky",
+    "Title":"Alias Grace",
+    "Rating":9.3,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":80.0,
+    "first_publish_year":1996.0
+  },
+  {
+    "Name":"Margaret",
+    "Surname":"Christie",
+    "Title":"American Gods",
+    "Rating":8.0,
+    "Publisher":"penguin random house",
+    "ebook_access":"printdisabled",
+    "edition_count":72.0,
+    "first_publish_year":2001.0
+  },
+  {
+    "Name":"Stephen",
+    "Surname":"King",
+    "Title":"Alias Grace",
+    "Rating":7.0,
+    "Publisher":"macmillan",
+    "ebook_access":"borrowable",
+    "edition_count":80.0,
+    "first_publish_year":1996.0
+  },
+  {
+    "Name":"Margaret",
+    "Surname":"St.james",
+    "Title":"The Institute",
+    "Rating":9.6,
+    "Publisher":"penguin random house",
+    "ebook_access":"public",
+    "edition_count":65.0,
+    "first_publish_year":1788.0
+  },
+  {
+    "Name":"Stephen",
+    "Surname":"Rowling",
+    "Title":"Neverwhere",
+    "Rating":9.3,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":46.0,
+    "first_publish_year":1996.0
+  },
+  {
+    "Name":"J.k.",
+    "Surname":"St.james",
+    "Title":"The Shining",
+    "Rating":9.2,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":95.0,
+    "first_publish_year":1977.0
+  },
+  {
+    "Name":"Terry",
+    "Surname":"Sager",
+    "Title":"American Gods",
+    "Rating":8.8,
+    "Publisher":"penguin random house",
+    "ebook_access":"printdisabled",
+    "edition_count":72.0,
+    "first_publish_year":2001.0
+  },
+  {
+    "Name":"Agatha",
+    "Surname":"Sager",
+    "Title":"11\/22\/63",
+    "Rating":8.7,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":48.0,
+    "first_publish_year":1925.0
+  },
+  {
+    "Name":"Stephen",
+    "Surname":"King",
+    "Title":"Misery",
+    "Rating":9.8,
+    "Publisher":"monster inc.",
+    "ebook_access":"borrowable",
+    "edition_count":99.0,
+    "first_publish_year":1978.0
+  },
+  {
+    "Name":"Alice",
+    "Surname":"Martin",
+    "Title":"11\/22\/63",
+    "Rating":8.3,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":48.0,
+    "first_publish_year":1925.0
+  },
+  {
+    "Name":"Margaret",
+    "Surname":"Wazowsky",
+    "Title":"Carrie",
+    "Rating":7.5,
+    "Publisher":"penguin random house",
+    "ebook_access":"borrowable",
+    "edition_count":112.0,
+    "first_publish_year":1974.0
+  }
+]

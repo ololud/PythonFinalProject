@@ -19,7 +19,5 @@ def panda_transformator(data_frame):
     data_frame = data_frame[(data_frame["Publisher"].isin(pulshing_houses)) | stephen_king_books]
 
     data_frame = data_frame.drop_duplicates()
-    print(data_frame)
 
-
-panda_transformator(loadingData())
+    return data_frame
